@@ -1,28 +1,28 @@
-ï»¿01 AndroidéŸ³è§†é¢‘å¼€å‘åŸºç¡€ï¼ˆä¸€ï¼‰ : é€šè¿‡ä¸‰ç§æ–¹å¼ï¼ˆImageViewï¼ŒSurfaceViewï¼Œè‡ªå®šä¹‰Viewï¼‰ç»˜åˆ¶å›¾ç‰‡
+01 AndroidÒôÊÓÆµ¿ª·¢»ù´¡£¨Ò»£© : Í¨¹ıÈıÖÖ·½Ê½£¨ImageView£¬SurfaceView£¬×Ô¶¨ÒåView£©»æÖÆÍ¼Æ¬
 <br>
 https://blog.csdn.net/a13027629517/article/details/108303771
 <br>
 
 
-02 AndroidéŸ³è§†é¢‘å¼€å‘åŸºç¡€ï¼ˆäºŒï¼‰ : åœ¨Androidå¹³å°ä½¿ç”¨AudioRecordå’ŒAudioTrackå®ŒæˆéŸ³é¢‘PCMæ•°æ®çš„é‡‡é›†å’Œæ’­æ”¾ï¼Œå¹¶å®ç°è¯»å†™éŸ³é¢‘wavæ–‡ä»¶
+02 AndroidÒôÊÓÆµ¿ª·¢»ù´¡£¨¶ş£© : ÔÚAndroidÆ½Ì¨Ê¹ÓÃAudioRecordºÍAudioTrackÍê³ÉÒôÆµPCMÊı¾İµÄ²É¼¯ºÍ²¥·Å£¬²¢ÊµÏÖ¶ÁĞ´ÒôÆµwavÎÄ¼ş
 <br>
 https://blog.csdn.net/a13027629517/article/details/108429989
 <br>
 
 
-03 AndroidéŸ³è§†é¢‘å¼€å‘åŸºç¡€ï¼ˆä¸‰ï¼‰ : åœ¨Androidå¹³å°ä½¿ç”¨Camera APIè¿›è¡Œè§†é¢‘çš„é‡‡é›†ï¼Œå¹¶ä¸”é¢„è§ˆCameraæ•°æ®ï¼Œå¾—åˆ°NV21æ•°æ®è¿›è¡Œå›è°ƒ
+03 AndroidÒôÊÓÆµ¿ª·¢»ù´¡£¨Èı£© : ÔÚAndroidÆ½Ì¨Ê¹ÓÃCamera API½øĞĞÊÓÆµµÄ²É¼¯£¬²¢ÇÒÔ¤ÀÀCameraÊı¾İ£¬µÃµ½NV21Êı¾İ½øĞĞ»Øµ÷
 <br>
 https://blog.csdn.net/a13027629517/article/details/108430175
 <br>
 
 
-04 AndroidéŸ³è§†é¢‘å¼€å‘åŸºç¡€ï¼ˆå››ï¼‰ï¼šä½¿ç”¨Androidå¹³å°çš„MediaExtractorå’ŒMediaMuxer APIè§£æå’Œå°è£…mp4æ–‡ä»¶
+04 AndroidÒôÊÓÆµ¿ª·¢»ù´¡£¨ËÄ£©£ºÊ¹ÓÃAndroidÆ½Ì¨µÄMediaExtractorºÍMediaMuxer API½âÎöºÍ·â×°mp4ÎÄ¼ş
 <br>
 https://blog.csdn.net/a13027629517/article/details/108560457
 <br>
 
 
-05 AndroidéŸ³è§†é¢‘å¼€å‘åŸºç¡€ï¼ˆäº”ï¼‰ï¼šå­¦ä¹ MediaCodec APIï¼Œå®ŒæˆéŸ³é¢‘AACç¡¬ç¼–ã€ç¡¬è§£
+05 AndroidÒôÊÓÆµ¿ª·¢»ù´¡£¨Îå£©£ºÑ§Ï°MediaCodec API£¬Íê³ÉÒôÆµAACÓ²±à¡¢Ó²½â
 <br>
 https://blog.csdn.net/a13027629517/article/details/108560457
 <br>
