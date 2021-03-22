@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioDemo</string>
+
+    <string name="start_record">开始录音</string>
+    <string name="stop_record">停止录音</string>
+    <string name="start_play">播放pcm</string>
+    <string name="start_play_wav">播放WAV</string>
+    <string name="stop_play">停止</string>
+
+</resources>
