@@ -21,15 +21,14 @@ https://blog.csdn.net/a13027629517/article/details/108430175
 https://blog.csdn.net/a13027629517/article/details/108560457
 <br>
 
-
 05 Android音视频开发基础（五）：学习MediaCodec API，完成音频AAC硬编、硬解
 <br>
 https://blog.csdn.net/a13027629517/article/details/108560457
 <br>
 
+06 Android音视频开发基础（六）：学习MediaCodec API，完成视频H.264的解码           
 
-
-
+https://blog.csdn.net/a13027629517/article/details/122027911?spm=1001.2014.3001.5501
 
 
 
