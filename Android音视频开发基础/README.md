@@ -26,9 +26,12 @@ https://blog.csdn.net/a13027629517/article/details/108560457
 https://blog.csdn.net/a13027629517/article/details/108560457
 <br>
 
-06 Android音视频开发基础（六）：学习MediaCodec API，完成视频H.264的解码           
-
+06 Android音视频开发基础（六）：学习MediaCodec API，完成视频H.264的解码
+<br>
 https://blog.csdn.net/a13027629517/article/details/122027911?spm=1001.2014.3001.5501
+<br>
 
-
-
+07 Android音视频开发基础（七）：视频采集-系统API基础
+<br>
+https://blog.csdn.net/a13027629517/article/details/122269537?spm=1001.2014.3001.5501
+<br>
