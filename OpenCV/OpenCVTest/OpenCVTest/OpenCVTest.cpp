@@ -2,6 +2,7 @@
 #include <iostream>
 
 int main() {
+
 	// 读取图像
 	cv::Mat image = cv::imread("D:\\灯牌大战.jpg");
 
@@ -9,6 +10,8 @@ int main() {
 		std::cout << "Error loading image." << std::endl;
 		return -1;
 	}
+
+
 
 	// 计算每个颜色通道的像素数
 	int totalPixels = image.rows * image.cols;
