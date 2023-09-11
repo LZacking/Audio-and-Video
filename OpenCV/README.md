@@ -10,7 +10,21 @@ CSDN链接：https://blog.csdn.net/a13027629517/article/details/132309132
 
 CSDN链接：https://blog.csdn.net/a13027629517/article/details/132700215?spm=1001.2014.3001.5501
 
-掘金链接：https://juejin.cn/post/7275220835945529398
+掘金链接：https://juejin.cn/post/7275220835945529398                                    
+
+
+
+#### drawing(OpenCV基础（二）：绘制直线、绘制几何图形、绘制文字、创建窗口)
+
+CSDN链接：https://blog.csdn.net/a13027629517/article/details/132818167?spm=1001.2014.3001.5501
+
+掘金链接：https://juejin.cn/post/7277490240171196428
+
+
+
+​                                         
+
+
 
 
 
